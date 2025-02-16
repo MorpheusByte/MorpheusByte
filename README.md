@@ -2,7 +2,7 @@
   I'm Taha Cakmak, Front-End Developer :computer: 
   </br>
   <div>
-  <a href="https://google.com/" target="_blank">
+  <a href="https://morpheusbyte.github.io/Sitem/" target="_blank">
 <kbd> <br> Personal Website <br> </kbd>
   </a>
   </div> 
